@@ -31,3 +31,6 @@ The workbook uses the published Tableau data source **User Dashboard Permission 
 | `Dashboard Usage Monitor 2.0.twb` | Tableau workbook (XML). Open in Tableau Desktop or publish to Tableau Server / Cloud. |
 
 If the data source connection or site path changes after publishing, reconnect the workbook to the same logical model your environment provides for dashboard usage and permissions.
+
+<img width="797" height="451" alt="image" src="https://github.com/user-attachments/assets/90b65f71-7aeb-41fc-942c-e8fdfcf112f9" />
+
